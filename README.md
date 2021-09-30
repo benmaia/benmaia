@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PaiJaVai
+- 👋 Hi, I’m Bernardo Maia
 - 👀 I’m interested in surf, boxe, and code
 - 🌱 I’m currently learning c language
 
