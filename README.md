@@ -1,4 +1,4 @@
-## Heyyy! I'm Bernardo Maia!
+## Heyyy! I'm Bernardo! I'm a 42 Student in Lisbon, learing C!
 <div align="center">
   <a href="https://github.com/PaiJaVai">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PaiJaVai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
