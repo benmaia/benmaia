@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Bernardo Maia
-- 👀 I’m interested in surf, boxe, and code
-- 🌱 I’m currently learning c language
-
+## Heyyy! I'm Bernardo Maia!
 <div align="center">
   <a href="https://github.com/PaiJaVai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaiJaVai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
