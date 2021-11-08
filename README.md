@@ -1,4 +1,4 @@
-## Heyyy! I'm Bernardo! I'm a 42 Student in Lisbon, learing C!
+## Heyyy! I'm Bernardo! I'm a 42 Student in Lisbon, learning C!
 <div align="center">
   <a href="https://github.com/benmaia">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=benmaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
