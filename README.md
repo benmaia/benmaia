@@ -8,8 +8,8 @@
   <img align="center" alt="PJV-Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
   <img align="center" alt="PJV-Premier" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
   <img align="center" alt="PJV-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-  <img align="center" alt="PJV-Github" height="37" width="37" src="https://img.icons8.com/small/512/ffffff/github.png"/>
   <img align="center" alt="PJV-C" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="PJV-Github" height="37" width="37" src="https://img.icons8.com/small/512/ffffff/github.png"/>
   <img align="right" alt="PJV'QR" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/461563270411714561/902902970402869248/pjvmaia.png?width=600&height=600">
 </div>
 </div>
