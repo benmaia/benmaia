@@ -1,4 +1,7 @@
-## Heyyy! I'm Bernardo! I'm a 42 Student in Lisbon, learning C!
+<h1 align="center"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif" width="29px"> Welcome to my world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?color=%23E16797&size=25&center=true&lines=My+name+is+Bernardo"></a>
+</p>
 <div align="center">
   <a href="https://github.com/benmaia">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=benmaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,7 +18,7 @@
 </div>
   
   ##
- 
+<h3> Contact me </h3>
 <div> 
   <a href="https://instagram.com/paijavai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href= "https://linkedin.com/in/benmaia/"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
