@@ -9,12 +9,15 @@
 </div>
   <h2> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="35px"> Languages and tools <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" width="24px"> </h2>
 <div style="display: inline_block"><br>
-  <img align="center" alt="PJV-C" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="center" alt="PJV-C" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="PJV-HTML" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="PJV-CSS" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PJV-Vim" height="37" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
+  <img align="center" alt="PJV-VS " height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="PJV-Github" height="37" width="37" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"/>
   <img align="center" alt="PJV-LINUX" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="PJV-Premier" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
-  <img align="center" alt="PJV-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+  <img align="center" alt="PJV-PS " height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="PJV-Premier" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
   <img align="right" alt="PJV'QR" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/461563270411714561/902902970402869248/pjvmaia.png?width=600&height=600">
 </div>
   
