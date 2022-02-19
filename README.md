@@ -1,7 +1,10 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif" width="29px"> Welcome to my world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=%23E16797&size=25&center=true&lines=My+name+is+Bernardo"></a>
+<br>
+<a href= "https://benmaia.github.io/""_blank"><img src="https://img.shields.io/badge/Website-Portfolio-ff69b4" height="28px" align="center"></a> 
 </p>
+<br>
 <div align="center">
   <a href="https://github.com/benmaia">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=benmaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,7 +29,7 @@
 <div> 
   <a href="https://instagram.com/paijavai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href= "https://linkedin.com/in/benmaia/""_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href= "https://benmaia.github.io/""_blank"><img src="https://img.shields.io/badge/Website-Portfolio-ff69b4" height="28px" ></a> 
+ 
 
   ![Snake animation](https://github.com/benmaia/benmaia/blob/output/github-contribution-grid-snake.svg)
  
