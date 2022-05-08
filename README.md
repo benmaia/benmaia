@@ -35,6 +35,8 @@
   ![Snake animation](https://github.com/benmaia/benmaia/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+<div align="center"><img src="https://komarev.com/ghpvc/?username=benmaia&label=Profile%20views&color=0e75b6&style=flat" alt="benmaia" /> </div>
 
 <!---
 PaiJaVai/PaiJaVai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
