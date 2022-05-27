@@ -18,9 +18,10 @@
   <img align="center" alt="PJV-CSS" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PJV-Git" height="37" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="PJV-Bash" height="55" width="55" src="https://img.icons8.com/plasticine/100/000000/bash.png"/>
+  <img align="center" alt="PJV-Nvim" height="37" width="40" src="https://symbols.getvecta.com/stencil_89/33_neovim-icon.1f7a40124e.svg" />
   <img align="center" alt="PJV-Vim" height="37" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" />
   <img align="center" alt="PJV-VS " height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="PJV-LINUX" height="37" width="37" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="PJV-Unix" height="40" width="40" src="https://img.icons8.com/color/344/unix.png">
   <img align="center" alt="PJV-PS " height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="PJV-Premier" height="37" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
   <img align="right" alt="PJV'QR" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/461563270411714561/902902970402869248/pjvmaia.png?width=600&height=600">
