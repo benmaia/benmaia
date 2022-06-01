@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/gandalf_parrot.gif" width="29px"> Welcome to my world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<h1 align="center">Welcome to my world!</p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=%23E16797&size=25&center=true&lines=My+name+is+Bernardo"></a>
 <br>
@@ -10,7 +10,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=benmaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benmaia&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <h2> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="35px"> Languages and tools <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/PC.gif" width="24px"> </h2>
+  <h2> Languages and tools </h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="PJV-C" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="PJV-PY" height="40" width="40" src="https://img.icons8.com/fluency/344/python.png">
@@ -28,7 +28,7 @@
 </div>
   
   ##
-<h3>  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Handshake.gif" width="35px">Contact me  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Point_Down.gif" width="9px"> </h3>
+<h3>  Contact me  </h3>
 <div> 
   <a href="https://instagram.com/paijavai" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href= "https://linkedin.com/in/benmaia/""_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
