@@ -1,14 +1,16 @@
 <h1 align="center">Welcome to my world!</p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=%23E16797&size=25&center=true&lines=My+name+is+Bernardo"></a>
+<div align=center>
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=monoscape&size=25&center=true&vCenter=true&lines=My+name+is+Bernardo" alt="Typing SVG" /></a>
+</div>
 <br>
-<a href= "https://benmaia.github.io/""_blank"><img src="https://img.shields.io/badge/Website-Portfolio-ff69b4" height="28px" align="center"></a> 
+<a href= "https://benmaia.github.io/""_blank"><img src="https://img.shields.io/badge/Web-Portfolio-blue" height="28px" align="center"></a> 
 </p>
 <br>
 <div align="center">
   <a href="https://github.com/benmaia">
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6493qh5000609mfcn9vf869/stats?cursusId=21&coalitionId=111" alt="bmiguel-'s 42 stats" height="154em"/></a>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benmaia&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benmaia&layout=compact&langs_count=7&theme=prussian"/>
 </div>
   <h2> Languages and tools </h2>
 <div style="display: inline_block"><br>
