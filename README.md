@@ -7,8 +7,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/benmaia">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=benmaia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benmaia&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6493qh5000609mfcn9vf869/stats?cursusId=21&coalitionId=111" alt="bmiguel-'s 42 stats" /></a>
+  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benmaia&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <h2> Languages and tools </h2>
 <div style="display: inline_block"><br>
