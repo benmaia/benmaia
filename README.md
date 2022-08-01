@@ -3,7 +3,6 @@
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=monoscape&size=25&center=true&vCenter=true&lines=My+name+is+Bernardo" alt="Typing SVG" /></a>
 </div>
-<br>
 <a href= "https://benmaia.github.io/""_blank"><img src="https://img.shields.io/badge/Web-Portfolio-blue" height="28px" align="center"></a> 
 </p>
 <br>
