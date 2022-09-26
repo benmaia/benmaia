@@ -5,7 +5,8 @@
 </p>
 <div align="center">
   <a href="https://github.com/benmaia">
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6493qh5000609mfcn9vf869/stats?cursusId=21&coalitionId=111" alt="bmiguel-'s 42 stats" height="154em"/></a>
+  <img height="100em" valign="middle" src="https://www.criticaltechworks.com/multimedia/techworks/v3acIZShA-logo_banner.svg"/>
+  <a href="https://github.com/JaeSeoKim/badge42"><img valign="middle" src="https://badge42.vercel.app/api/v2/cl6493qh5000609mfcn9vf869/stats?cursusId=21&coalitionId=111" alt="bmiguel-'s 42 stats" height="154em"/></a>
   <br>
   <br>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=benmaia&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
