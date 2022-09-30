@@ -5,7 +5,6 @@
 </p>
 <div align="center">
   <a href="https://github.com/benmaia">
-  <img height="100em" valign="middle" src="https://www.criticaltechworks.com/multimedia/techworks/v3acIZShA-logo_banner.svg"/>
   <a href="https://github.com/JaeSeoKim/badge42"><img valign="middle" src="https://badge42.vercel.app/api/v2/cl6493qh5000609mfcn9vf869/stats?cursusId=21&coalitionId=111" alt="bmiguel-'s 42 stats" height="154em"/></a>
   <br>
   <br>
@@ -19,6 +18,7 @@
   <img align="center" alt="PJV-PY" height="40" width="40" src="https://img.icons8.com/fluency/344/python.png">
   <img align="center" alt="PJV-HTML" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PJV-CSS" height="37" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PJV-DOCKER" height="50" width="50" src="https://img.icons8.com/color/344/docker.png">
   <img align="center" alt="PJV-Git" height="37" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="center" alt="PJV-Unix" height="40" width="40" src="https://img.icons8.com/color/344/unix.png">
   <img align="center" alt="PJV-Nvim" height="37" width="40" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" />
